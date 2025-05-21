@@ -1,8 +1,8 @@
-# Ex.No: 10  Implementation of 2D/3D game -------------------
-### DATE:                                                                            
-### REGISTER NUMBER : 
+# Ex.No: 10  Implementation of 2D/3D game using AI algoritims
+### DATE: 21.05.2025                                                                       
+### REGISTER NUMBER : 212224230181
 ### AIM: 
-To develop a game -------------------------in Unity 
+To develop a game based on shooting in Unity 
 ### Algorithm:
 🎮 Procedure to Use AIShooting.cs in Unity
 ✅ 1. Create a New Unity Project
@@ -148,4 +148,4 @@ public class Bullet : MonoBehaviour
 ![image](https://github.com/user-attachments/assets/5345f471-65da-41e9-91f8-52ab6b9afb9d)
 
 ### Result:
-Thus the game was developed using Unity and adopted _-----------AI technology.
+Thus the game was developed using Unity and adopted Neuro AI technology.
